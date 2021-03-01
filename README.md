@@ -7,7 +7,7 @@ Simple flashcard app that asks the user a question and responds to their answer 
 Simple flashcard app that asks the user a question and responds to their answer choice by a green or red indication.
 
 ### App Walk-though
-<img src="https://github.com/dailenking/flashcard-app/raw/main/flashcardapp-lab1.gif"width=200><br>
+<img src="https://github.com/dailenking/flashcard-app/raw/main/flashcardapp-lab1.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
