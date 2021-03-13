@@ -21,3 +21,26 @@ Simple flashcard app that asks the user a question and responds to their answer 
 - [x] Add selectable multiple choice answers beneath the card
    - [x] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
 - [ ] Further customize and style the card
+
+
+## Lab 2
+
+
+### App Walk-through
+![lab2](https://user-images.githubusercontent.com/69405271/111023028-96095000-83a4-11eb-949e-712df9ab1d7d.gif)
+
+
+## Required
+- [x]  Start by opening Android Studio and running your app to make sure everything still works as expected.
+- [x] Add a ‘+’ button that takes the user to new ‘Add Card Screen’
+- [x] Add a Cancel button to the 'Add Card Screen'
+- [x] Add two fields to the 'Add Card Screen' that will allow the user to enter the Question and the Answer
+- [x] Add a Save button that will dismiss 'Add Card Screen' and return to the Main Activity where the user can see the card they just created
+- [x] Push your code to GitHub!
+
+## Optional 
+- [ ] Add an ‘Edit’ button on the Main Activity that will let users ‘Edit’ an existing card
+- [ ] Show an error message to the user if they didn't enter the question or answer
+- [ ] Display a Snackbar notification for when the new card is created successfully
+- [ ] Allow the user to add Multiple Choice answers when creating the card
+- [ ] Further customize and style your app!
