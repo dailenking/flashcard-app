@@ -27,7 +27,8 @@ Simple flashcard app that asks the user a question and responds to their answer 
 
 
 ### App Walk-through
-![lab2](https://user-images.githubusercontent.com/69405271/111023028-96095000-83a4-11eb-949e-712df9ab1d7d.gif)
+![flashcardapp-lab2](https://user-images.githubusercontent.com/69405271/111037120-b9f28300-83f0-11eb-933c-90ea810a2f60.gif)
+
 
 
 ## Required
